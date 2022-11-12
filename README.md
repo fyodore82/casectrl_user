@@ -12,3 +12,5 @@ Below is the User Secrets file format
 }
 3. In package management console in Visual Studio run Update-Database to create required tables
 4. Run in Debug/Release mode
+
+This project contains unit tests which cna be run thru test explorer
